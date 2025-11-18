@@ -1,0 +1,26 @@
+baseURL = 'https://Hcank4.github.io/Project-LapTrinhMang/'
+languageCode = 'vi'
+title = 'Blog Lập Trình Mạng'
+theme = 'PaperMod'
+
+[params]
+  author = "Hong Can" 
+  description = "Chia sẻ kiến thức Java & JavaScript"
+  defaultTheme = "auto"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Trang Chủ"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "Bài Viết"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    identifier = "about"
+    name = "Giới Thiệu"
+    url = "/about/"
+    weight = 30
