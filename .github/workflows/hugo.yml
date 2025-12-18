@@ -21,14 +21,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive # Quan trọng để lấy theme PaperMod
+          submodules: recursive
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          # CỐ ĐỊNH bản 0.121.2 để né lỗi "google_analytics.html"
+          # PHẢI dùng bản 0.121.2 để né lỗi google_analytics
           hugo-version: '0.121.2'
-          # BẮT BUỘC phải là true để chạy giao diện PaperMod
           extended: true
 
       - name: Setup Pages
