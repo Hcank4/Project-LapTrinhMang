@@ -6,8 +6,8 @@ theme = 'PaperMod'
 [params]
     author = "Hong Can" 
     description = "Chia sẻ kiến thức Java & JavaScript"
-    defaultTheme = "auto"
-    # Hiện nút copy code cho bài viết chuyên nghiệp hơn
+    # Bạn có thể đổi thành "dark" nếu muốn web luôn có màu đen cho ngầu
+    defaultTheme = "auto" 
     ShowCodeCopyButtons = true 
 
 [params.profileMode]
@@ -15,7 +15,7 @@ theme = 'PaperMod'
     title = "Chào bạn, mình là Hồng Cần! 👋"
     subtitle = "Sinh viên CNTT | Đam mê lập trình Java & Web Development"
     displayFullContent = true
-    imageUrl = "https://github.com/hcank4.png" # Tự động lấy avatar GitHub của bạn
+    imageUrl = "https://github.com/hcank4.png"
     imageTitle = "Avatar"
     imageWidth = 150
     imageHeight = 150
@@ -34,11 +34,11 @@ theme = 'PaperMod'
 
 [[params.socialIcons]]
     name = "facebook"
-    url = "https://facebook.com/your-profile" # Nhớ thay link FB thật của bạn vào đây nhé
+    url = "https://www.facebook.com/hongcan.pham.5070" 
 
 [[params.socialIcons]]
     name = "email"
-    url = "mailto:your-email@gmail.com" # Thay email của bạn vào đây
+    url = "mailto:canpham522@gmail.com" # Đã thêm mailto: để bấm vào là mở trình soạn mail
 
 [menu]
     [[menu.main]]
