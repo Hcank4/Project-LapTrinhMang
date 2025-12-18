@@ -1,4 +1,4 @@
-baseURL = 'https://Hcank4.github.io/Project-LapTrinhMang/'
+baseURL = 'https://hcank4.github.io/Project-LapTrinhMang/'
 languageCode = 'vi'
 title = 'Blog Lập Trình Mạng'
 theme = 'PaperMod'

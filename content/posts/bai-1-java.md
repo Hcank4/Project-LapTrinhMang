@@ -6,5 +6,3 @@ draft: false
 
 # Xin chào!
 Đây là bài viết đầu tiên về Java của mình.
-
-(Bạn viết thêm nội dung bài học vào đây...)
