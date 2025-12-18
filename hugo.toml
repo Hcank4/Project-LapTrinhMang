@@ -24,3 +24,29 @@ theme = 'PaperMod'
     name = "Giới Thiệu"
     url = "/about/"
     weight = 30
+  [params.profileMode]
+    enabled = true
+    title = "Chào bạn, mình là Hồng Cần!"
+    subtitle = "Sinh viên CNTT | Đam mê lập trình Java & Web Development"
+    displayFullContent = true
+    imageUrl = "https://github.com/hcank4.png" # Lấy ảnh đại diện từ GitHub của bạn
+    imageTitle = "Avatar"
+    imageWidth = 120
+    imageHeight = 120
+
+    [[params.profileMode.buttons]]
+        name = "Xem các bài viết"
+        url = "posts"
+
+    [[params.profileMode.buttons]]
+        name = "GitHub cá nhân"
+        url = "https://github.com/hcank4"
+    [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/hcank4"
+[[params.socialIcons]]
+    name = "facebook"
+    url = "https://facebook.com/your-profile"
+[[params.socialIcons]]
+    name = "email"
+    url = "mailto:your-email@gmail.com"
