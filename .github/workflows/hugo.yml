@@ -12,15 +12,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          submodules: recursive
+        # ĐÃ XÓA dòng submodules ở đây để hết lỗi "No url found"
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest' # Dùng bản mới nhất thoải mái
+          hugo-version: '0.121.2'
           extended: true
+
       - name: Build with Hugo
         run: hugo --minify --baseURL "https://hcank4.github.io/Project-LapTrinhMang/"
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
