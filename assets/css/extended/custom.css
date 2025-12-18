@@ -1,0 +1,11 @@
+:root {
+    --primary: #0077cc;      /* Màu tiêu đề xanh */
+    --theme: #f4f4f9;        /* Nền xám trắng nhẹ */
+    --entry: #ffffff;        /* Thẻ bài viết màu trắng */
+}
+
+:root[data-theme="dark"] {
+    --primary: #66b2ff;      /* Xanh sáng cho chế độ tối */
+    --theme: #1a1a1b;        /* Nền tối */
+    --entry: #2e2e33;        /* Thẻ bài viết tối */
+}
