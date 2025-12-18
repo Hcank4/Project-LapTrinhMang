@@ -4,35 +4,21 @@ title = 'Blog Lập Trình Mạng'
 theme = 'PaperMod'
 
 [params]
-  author = "Hong Can" 
-  description = "Chia sẻ kiến thức Java & JavaScript"
-  defaultTheme = "auto"
+    author = "Hong Can" 
+    description = "Chia sẻ kiến thức Java & JavaScript"
+    defaultTheme = "auto"
+    # Hiện nút copy code cho bài viết chuyên nghiệp hơn
+    ShowCodeCopyButtons = true 
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Trang Chủ"
-    url = "/"
-    weight = 10
-  [[menu.main]]
-    identifier = "posts"
-    name = "Bài Viết"
-    url = "/posts/"
-    weight = 20
-  [[menu.main]]
-    identifier = "about"
-    name = "Giới Thiệu"
-    url = "/about/"
-    weight = 30
-  [params.profileMode]
+[params.profileMode]
     enabled = true
-    title = "Chào bạn, mình là Hồng Cần!"
+    title = "Chào bạn, mình là Hồng Cần! 👋"
     subtitle = "Sinh viên CNTT | Đam mê lập trình Java & Web Development"
     displayFullContent = true
-    imageUrl = "https://github.com/hcank4.png" # Lấy ảnh đại diện từ GitHub của bạn
+    imageUrl = "https://github.com/hcank4.png" # Tự động lấy avatar GitHub của bạn
     imageTitle = "Avatar"
-    imageWidth = 120
-    imageHeight = 120
+    imageWidth = 150
+    imageHeight = 150
 
     [[params.profileMode.buttons]]
         name = "Xem các bài viết"
@@ -41,12 +27,32 @@ theme = 'PaperMod'
     [[params.profileMode.buttons]]
         name = "GitHub cá nhân"
         url = "https://github.com/hcank4"
-    [[params.socialIcons]]
+
+[[params.socialIcons]]
     name = "github"
     url = "https://github.com/hcank4"
+
 [[params.socialIcons]]
     name = "facebook"
-    url = "https://facebook.com/your-profile"
+    url = "https://facebook.com/your-profile" # Nhớ thay link FB thật của bạn vào đây nhé
+
 [[params.socialIcons]]
     name = "email"
-    url = "mailto:your-email@gmail.com"
+    url = "mailto:your-email@gmail.com" # Thay email của bạn vào đây
+
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Trang Chủ"
+        url = "/"
+        weight = 10
+    [[menu.main]]
+        identifier = "posts"
+        name = "Bài Viết"
+        url = "/posts/"
+        weight = 20
+    [[menu.main]]
+        identifier = "about"
+        name = "Giới Thiệu"
+        url = "/about/"
+        weight = 30
