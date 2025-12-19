@@ -5,6 +5,11 @@ weight: 4
 draft: false
 summary: "Sử dụng lớp InetAddress trong Java để quản lý địa chỉ IP và kiểm tra kết nối."
 tags: ["Java", "Networking", "IP"]
+cover:
+    image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?q=80&w=1974&auto=format&fit=crop" # Link ảnh mạng (ví dụ)
+    alt: "Mô hình kết nối mạng" # Chú thích ảnh khi không load được
+    caption: "Lập trình mạng là nền tảng của Internet" # Chú thích nhỏ dưới ảnh
+    relative: false # Để false vì đang dùng link ngoài
 ---
 
 Trong lập trình mạng Java, lớp `InetAddress` là công cụ chính để làm việc với địa chỉ IP.

@@ -1,12 +1,16 @@
 ---
 title: "Bài 5: Lập trình Socket TCP với Java"
 date: 2025-12-19T07:00:00+07:00
-weight: 5
 draft: false
 summary: "Hướng dẫn xây dựng mô hình Client-Server sử dụng TCP Socket để truyền dữ liệu tin cậy."
 tags: ["Java", "TCP", "Socket"]
 weight: 5
 showToc: true
+cover:
+    image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?q=80&w=1974&auto=format&fit=crop" # Link ảnh mạng (ví dụ)
+    alt: "Mô hình kết nối mạng" # Chú thích ảnh khi không load được
+    caption: "Lập trình mạng là nền tảng của Internet" # Chú thích nhỏ dưới ảnh
+    relative: false # Để false vì đang dùng link ngoài
 ---
 
 TCP (Transmission Control Protocol) là giao thức hướng kết nối, đảm bảo dữ liệu được truyền đi một cách chính xác và đúng thứ tự. Trong bài học này, chúng ta sẽ cùng xây dựng một ứng dụng giao tiếp đơn giản gồm hai phần: Server và Client.

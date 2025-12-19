@@ -6,6 +6,11 @@ draft: false
 summary: "Tìm hiểu những khái niệm cơ bản nhất về lập trình mạng và mô hình Client-Server."
 tags: ["Networking", "Basics", "Java"]
 showToc: true
+cover:
+    image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?q=80&w=1974&auto=format&fit=crop" # Link ảnh mạng (ví dụ)
+    alt: "Mô hình kết nối mạng" # Chú thích ảnh khi không load được
+    caption: "Lập trình mạng là nền tảng của Internet" # Chú thích nhỏ dưới ảnh
+    relative: false # Để false vì đang dùng link ngoài
 ---
 
 ## 1. Lập trình mạng là gì?

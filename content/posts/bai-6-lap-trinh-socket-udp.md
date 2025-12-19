@@ -1,12 +1,16 @@
 ---
 title: "Bài 6: Lập trình Socket UDP với Java"
 date: 2025-12-19T08:00:00+07:00
-weight: 6
 draft: false
 summary: "Tìm hiểu cách truyền nhận dữ liệu tốc độ cao qua giao thức UDP bằng DatagramSocket."
 tags: ["Java", "UDP", "Datagram"]
 weight: 6
 showToc: true
+cover:
+    image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?q=80&w=1974&auto=format&fit=crop" # Link ảnh mạng (ví dụ)
+    alt: "Mô hình kết nối mạng" # Chú thích ảnh khi không load được
+    caption: "Lập trình mạng là nền tảng của Internet" # Chú thích nhỏ dưới ảnh
+    relative: false # Để false vì đang dùng link ngoài
 ---
 
 Khác với TCP, UDP là giao thức không kết nối, tập trung vào tốc độ truyền tải nhanh.

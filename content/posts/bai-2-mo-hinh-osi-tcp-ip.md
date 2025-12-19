@@ -6,6 +6,11 @@ draft: false
 summary: "Phân tích 7 tầng của mô hình OSI và cách internet vận hành dựa trên bộ giao thức TCP/IP."
 tags: ["Networking", "OSI", "TCP/IP"]
 showToc: true
+cover:
+    image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?q=80&w=1974&auto=format&fit=crop" # Link ảnh mạng (ví dụ)
+    alt: "Mô hình kết nối mạng" # Chú thích ảnh khi không load được
+    caption: "Lập trình mạng là nền tảng của Internet" # Chú thích nhỏ dưới ảnh
+    relative: false # Để false vì đang dùng link ngoài
 ---
 
 ## 1. Mô hình OSI (7 tầng)
