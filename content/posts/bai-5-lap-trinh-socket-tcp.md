@@ -1,6 +1,7 @@
 ---
 title: "Bài 5: Lập trình Socket TCP với Java"
 date: 2025-12-19T07:00:00+07:00
+weight: 5
 draft: false
 summary: "Hướng dẫn xây dựng mô hình Client-Server sử dụng TCP Socket để truyền dữ liệu tin cậy."
 tags: ["Java", "TCP", "Socket"]

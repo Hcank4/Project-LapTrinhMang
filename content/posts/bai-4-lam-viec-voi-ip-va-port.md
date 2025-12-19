@@ -1,6 +1,7 @@
 ---
 title: "Bài 4: Làm việc với IP và Port trong Java"
 date: 2025-12-19T11:00:00+07:00
+weight: 4
 draft: false
 summary: "Sử dụng lớp InetAddress trong Java để quản lý địa chỉ IP và kiểm tra kết nối."
 tags: ["Java", "Networking", "IP"]

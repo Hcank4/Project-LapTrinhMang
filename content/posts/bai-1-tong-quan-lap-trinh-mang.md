@@ -1,6 +1,7 @@
 ---
 title: "Bài 1: Tổng quan về Lập trình mạng"
 date: 2025-12-19T08:00:00+07:00
+weight: 1
 draft: false
 summary: "Tìm hiểu những khái niệm cơ bản nhất về lập trình mạng và mô hình Client-Server."
 tags: ["Networking", "Basics", "Java"]

@@ -1,6 +1,7 @@
 ---
 title: "Bài 3: Phân biệt giao thức TCP và UDP"
 date: 2025-12-19T10:00:00+07:00
+weight: 3
 draft: false
 summary: "So sánh chi tiết ưu và nhược điểm của hai giao thức cốt lõi trong lập trình Socket."
 tags: ["TCP", "UDP", "Protocol"]

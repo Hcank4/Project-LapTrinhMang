@@ -1,6 +1,7 @@
 ---
 title: "Bài 7: Đa luồng (Multi-threading) trong Socket"
 date: 2025-12-19T09:00:00+07:00
+weight: 7
 draft: false
 summary: "Kỹ thuật giúp Server xử lý nhiều kết nối Client cùng một lúc bằng Thread."
 tags: ["Java", "Multi-threading", "Socket"]

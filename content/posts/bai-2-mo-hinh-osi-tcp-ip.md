@@ -1,6 +1,7 @@
 ---
 title: "Bài 2: Mô hình OSI và TCP/IP"
 date: 2025-12-19T09:00:00+07:00
+weight: 2
 draft: false
 summary: "Phân tích 7 tầng của mô hình OSI và cách internet vận hành dựa trên bộ giao thức TCP/IP."
 tags: ["Networking", "OSI", "TCP/IP"]

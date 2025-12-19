@@ -1,6 +1,7 @@
 ---
 title: "Bài 9: Tổng kết đồ án Lập trình mạng"
 date: 2025-12-19T07:00:00+07:00
+weight: 9
 draft: false
 summary: "Nhìn lại hành trình xây dựng Blog và những kiến thức đã gặt hái được."
 tags: ["Summary", "Final"]

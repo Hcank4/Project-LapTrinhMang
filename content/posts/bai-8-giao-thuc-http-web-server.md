@@ -1,6 +1,7 @@
 ---
 title: "Bài 8: Giao thức HTTP và Web Server"
 date: 2025-12-19T07:00:00+07:00
+weight: 8
 draft: false
 summary: "Tìm hiểu cách trình duyệt gửi request GET/POST và cách Server phản hồi."
 tags: ["HTTP", "Web", "Server"]

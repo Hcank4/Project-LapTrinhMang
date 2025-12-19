@@ -1,6 +1,7 @@
 ---
 title: "Bài 6: Lập trình Socket UDP với Java"
 date: 2025-12-19T08:00:00+07:00
+weight: 6
 draft: false
 summary: "Tìm hiểu cách truyền nhận dữ liệu tốc độ cao qua giao thức UDP bằng DatagramSocket."
 tags: ["Java", "UDP", "Datagram"]
