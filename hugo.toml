@@ -2,7 +2,9 @@ baseURL = 'https://hcank4.github.io/Project-LapTrinhMang/'
 languageCode = 'vi'
 title = 'Blog Lập Trình Mạng'
 theme = 'PaperMod'
-paginate = 15
+
+[pagination]
+    pagerSize = 15
 
 [params]
     author = "Hong Can" 
