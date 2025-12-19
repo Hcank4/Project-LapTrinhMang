@@ -4,7 +4,7 @@ title = 'Blog Lập Trình Mạng'
 theme = 'PaperMod'
 
 [pagination]
-    pagerSize = 15
+    pagerSize = 20
 
 [params]
     author = "Hong Can" 
