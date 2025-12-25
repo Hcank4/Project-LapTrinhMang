@@ -6,19 +6,19 @@ summary: "Thông tin cá nhân, kỹ năng chuyên môn và các dự án đã t
 
 # HỒNG CẦN - SOFTWARE DEVELOPER 👋
 
-Chào bạn! Mình là sinh viên năm cuối chuyên ngành CNTT tại **HUTECH**. [cite_start]Mình có niềm đam mê lớn với lập trình Backend (Java, .NET) và đảm bảo chất lượng phần mềm (Software Testing)[cite: 5, 571].
+Chào bạn! Mình là sinh viên năm cuối chuyên ngành CNTT tại **HUTECH**. Mình có niềm đam mê lớn với lập trình Backend (Java, .NET) và đảm bảo chất lượng phần mềm (Software Testing).
 
 ---
 
 ### 🛠️ Kỹ năng chuyên môn (Tech Stack)
 
 #### **Lập trình & Framework**
-* [cite_start]**Backend:** Java Core (Socket TCP/UDP), .NET Core (Kiến trúc Onion)[cite: 5].
+* **Backend:** Java Core (Socket TCP/UDP), .NET Core (Kiến trúc Onion).
 * **Web:** PHP (Laravel), Hugo (Static Site Generator).
-* [cite_start]**Database:** Microsoft SQL Server, MySQL (Thiết kế và tối ưu truy vấn)[cite: 279, 571].
+* **Database:** Microsoft SQL Server, MySQL (Thiết kế và tối ưu truy vấn).
 
 #### **Kiểm thử phần mềm (Testing)**
-* [cite_start]Nắm vững quy trình kiểm thử: Unit Test, Integration Test, Manual Testing[cite: 571].
+* Nắm vững quy trình kiểm thử: Unit Test, Integration Test, Manual Testing.
 * Kỹ năng viết Test Case và quản lý lỗi hệ thống.
 
 ---
@@ -38,8 +38,7 @@ Chào bạn! Mình là sinh viên năm cuối chuyên ngành CNTT tại **HUTECH
 ---
 
 ### 🎓 Học vấn & Chứng chỉ
-* [cite_start]**Đại học Công nghệ TP.HCM (HUTECH):** Chuyên ngành Công nghệ thông tin[cite: 1, 5].
-* [cite_start]**Đồ án cơ sở:** Xây dựng hệ thống mạng LAN doanh nghiệp[cite: 2, 88].
+* **Đại học Công nghệ TP.HCM (HUTECH):** Chuyên ngành Công nghệ thông tin.
 
 ---
 
