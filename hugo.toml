@@ -1,6 +1,6 @@
 baseURL = 'https://hcank4.github.io/Project-LapTrinhMang/'
 languageCode = 'vi'
-title = 'Hồng Cần Portfolio'
+title = 'Phạm Hồng Cẩn Blog'
 theme = 'PaperMod'
 
 [pagination]
@@ -35,12 +35,12 @@ theme = 'PaperMod'
 [menu]
     [[menu.main]]
         identifier = "home"
-        name = "HOME"
+        name = "TRANG CHỦ"
         url = "/"
         weight = 10
     [[menu.main]]
         identifier = "about"
-        name = "ABOUT"
+        name = "VỀ TÔI"
         url = "/about/"
         weight = 20
     [[menu.main]]
