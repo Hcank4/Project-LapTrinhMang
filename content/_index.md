@@ -12,7 +12,7 @@ title: "Home"
         </div>
     </div>
     <div class="hero-image">
-        <img src="/images/profile.jpg" alt="Hong Can Profile">
+        <img src="images/profile.jpg" alt="Hong Can Profile">
     </div>
 </div>
 
