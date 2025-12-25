@@ -3,83 +3,81 @@ title: "Home"
 ---
 
 <div class="hero-section">
-    <div class="hero-text">
-        <h1 class="name-heading">HỒNG CẨN</h1>
-        <p class="slogan">CẦN CÙ BÙ <br> THÔNG MINH</p>
-        
-        <div class="hero-buttons">
-            <a href="posts" class="btn-primary">XEM CÁC BÀI VIẾT</a>
-            <a href="[https://github.com/hcank4](https://github.com/hcank4)" class="btn-secondary" target="_blank">GITHUB CÁ NHÂN</a>
-        </div>
+<div class="hero-text">
+<h1 class="name-heading">HỒNG CẦN //</h1>
+<p class="slogan">CẦN CÙ BÙ <br> THÔNG MINH</p>
 
-        <div class="social-icons">
-            <a href="[https://github.com/hcank4](https://github.com/hcank4)" target="_blank" title="GitHub">📁</a>
-            <a href="[https://www.facebook.com/hongcan.pham.5070](https://www.facebook.com/hongcan.pham.5070)" target="_blank" title="Facebook">🔵</a>
-            <a href="mailto:canpham522@gmail.com" title="Email">✉️</a>
-        </div>
-    </div>
+<div class="hero-buttons">
+<a href="posts" class="btn-primary">XEM CÁC BÀI VIẾT</a>
+<a href="https://github.com/hcank4" class="btn-secondary" target="_blank">GITHUB CÁ NHÂN</a>
+</div>
 
-    <div class="hero-image">
-        <img src="images/profile.jpg" alt="Hong Can Profile">
-    </div>
+<div class="social-icons">
+<a href="https://github.com/hcank4" target="_blank" title="GitHub">📁</a>
+<a href="https://www.facebook.com/hongcan.pham.5070" target="_blank" title="Facebook">🔵</a>
+<a href="mailto:canpham522@gmail.com" title="Email">✉️</a>
+</div>
+</div>
+
+<div class="hero-image">
+<img src="images/profile.jpg" alt="Hong Can Profile">
+</div>
 </div>
 
 <style>
-/* ẨN TOÀN BỘ DANH SÁCH BÀI VIẾT Ở TRANG CHỦ */
+/* ẨN TOÀN BỘ BÀI VIẾT Ở TRANG CHỦ */
 .post-entry, .collection-header, .pagination, .main > footer { 
-    display: none !important; 
+display: none !important; 
 }
 
 .hero-section {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    min-height: 60vh;
-    gap: 40px;
-    padding: 40px 0;
+display: flex;
+align-items: center;
+justify-content: space-between;
+min-height: 60vh;
+gap: 40px;
+padding: 40px 0;
 }
 .hero-text { flex: 1.2; }
 .name-heading { 
-    font-size: 1.5rem; 
-    letter-spacing: 5px; 
-    color: #888;
+font-size: 1.5rem; 
+letter-spacing: 5px; 
+color: #888;
 }
 .slogan {
-    font-size: 3rem;
-    font-weight: 900;
-    line-height: 1.1;
-    margin: 20px 0;
-    color: var(--content);
-    text-transform: uppercase;
+font-size: 3rem;
+font-weight: 900;
+line-height: 1.1;
+margin: 20px 0;
+color: var(--content);
+text-transform: uppercase;
 }
 .hero-buttons { margin-bottom: 25px; }
 .btn-primary, .btn-secondary {
-    display: inline-block;
-    padding: 12px 28px;
-    margin-right: 15px;
-    text-decoration: none !important;
-    font-weight: bold;
-    border: 2px solid var(--primary);
-    transition: 0.3s;
+display: inline-block;
+padding: 12px 28px;
+margin-right: 15px;
+text-decoration: none !important;
+font-weight: bold;
+border: 2px solid var(--primary);
+transition: 0.3s;
 }
 .btn-primary { background: var(--primary); color: #fff !important; }
 .btn-secondary { color: var(--primary) !important; }
-
 .social-icons { display: flex; gap: 20px; font-size: 1.5rem; }
 .social-icons a { text-decoration: none !important; }
-
 .hero-image { flex: 0.8; text-align: right; }
 .hero-image img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 4px;
-    box-shadow: 20px 20px 0px var(--primary); /* Đổ bóng theo màu theme */
+max-width: 100%;
+height: auto;
+border-radius: 4px;
+box-shadow: 20px 20px 0px var(--primary);
 }
 
 @media (max-width: 768px) {
-    .hero-section { flex-direction: column-reverse; text-align: center; }
-    .hero-image { text-align: center; }
-    .slogan { font-size: 2.2rem; }
-    .social-icons { justify-content: center; }
+.hero-section { flex-direction: column-reverse; text-align: center; }
+.hero-image { text-align: center; }
+.slogan { font-size: 2.2rem; }
+.social-icons { justify-content: center; }
 }
 </style>
