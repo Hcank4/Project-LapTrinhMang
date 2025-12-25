@@ -2,9 +2,11 @@
 title: "Home"
 ---
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
 <div class="hero-section">
 <div class="hero-text">
-<h1 class="name-heading">HỒNG CẦN //</h1>
+<h1 class="name-heading">PHẠM HỒNG CẦN //</h1>
 <p class="slogan">CẦN CÙ BÙ <br> THÔNG MINH</p>
 
 <div class="hero-buttons">
@@ -13,19 +15,19 @@ title: "Home"
 </div>
 
 <div class="social-icons">
-<a href="https://github.com/hcank4" target="_blank" title="GitHub">📁</a>
-<a href="https://www.facebook.com/hongcan.pham.5070" target="_blank" title="Facebook">🔵</a>
-<a href="mailto:canpham522@gmail.com" title="Email">✉️</a>
+<a href="https://github.com/hcank4" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+<a href="https://www.facebook.com/hongcan.pham.5070" target="_blank" title="Facebook"><i class="fab fa-facebook"></i></a>
+<a href="mailto:canpham522@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
 </div>
 </div>
 
 <div class="hero-image">
-<img src="images/profile.jpg" alt="Hong Can Profile">
+<img src="images/profile.jpg" alt="Pham Hong Can Profile">
 </div>
 </div>
 
 <style>
-/* ẨN TOÀN BỘ BÀI VIẾT Ở TRANG CHỦ */
+/* LỆNH ẨN TOÀN BỘ BÀI VIẾT Ở TRANG CHỦ */
 .post-entry, .collection-header, .pagination, .main > footer { 
 display: none !important; 
 }
@@ -40,9 +42,10 @@ padding: 40px 0;
 }
 .hero-text { flex: 1.2; }
 .name-heading { 
-font-size: 1.5rem; 
+font-size: 1.8rem; 
 letter-spacing: 5px; 
 color: #888;
+font-weight: 700;
 }
 .slogan {
 font-size: 3rem;
@@ -64,8 +67,10 @@ transition: 0.3s;
 }
 .btn-primary { background: var(--primary); color: #fff !important; }
 .btn-secondary { color: var(--primary) !important; }
-.social-icons { display: flex; gap: 20px; font-size: 1.5rem; }
-.social-icons a { text-decoration: none !important; }
+
+.social-icons { display: flex; gap: 25px; font-size: 1.8rem; margin-top: 20px; }
+.social-icons a { color: var(--primary) !important; text-decoration: none !important; }
+
 .hero-image { flex: 0.8; text-align: right; }
 .hero-image img {
 max-width: 100%;
