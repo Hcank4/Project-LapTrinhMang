@@ -1,35 +1,24 @@
 baseURL = 'https://hcank4.github.io/Project-LapTrinhMang/'
 languageCode = 'vi'
-title = 'Blog Lập Trình Mạng'
+title = 'Hồng Cần Portfolio'
 theme = 'PaperMod'
 
 [pagination]
     pagerSize = 20
 
+[markup.goldmark.renderer]
+    unsafe = true  # Bắt buộc phải có để chạy HTML/CSS tùy chỉnh cho trang chủ
+
 [params]
     author = "Hong Can" 
-    description = "Chia sẻ kiến thức Java & JavaScript"
-    # Bạn có thể đổi thành "dark" nếu muốn web luôn có màu đen cho ngầu
-    defaultTheme = "auto" 
+    description = "Software Developer & Portfolio"
+    # Sửa thành "light" để có nền trắng, chữ đen giống mẫu Wix
+    defaultTheme = "light" 
     ShowCodeCopyButtons = true 
 
 [params.profileMode]
-    enabled = true
-    title = "Chào bạn, mình là Hồng Cần! 👋"
-    subtitle = "Sinh viên CNTT | Đam mê lập trình Java & Web Development"
-    displayFullContent = true
-    imageUrl = "https://github.com/hcank4.png"
-    imageTitle = "Avatar"
-    imageWidth = 150
-    imageHeight = 150
-
-    [[params.profileMode.buttons]]
-        name = "Xem các bài viết"
-        url = "posts"
-
-    [[params.profileMode.buttons]]
-        name = "GitHub cá nhân"
-        url = "https://github.com/hcank4"
+    enabled = false  # Đã sửa lỗi chính tả "flase" thành "false"
+    # Tắt cái này để dùng layout tùy chỉnh giống mẫu image_dec0df.jpg
 
 [[params.socialIcons]]
     name = "github"
@@ -41,21 +30,21 @@ theme = 'PaperMod'
 
 [[params.socialIcons]]
     name = "email"
-    url = "mailto:canpham522@gmail.com" # Đã thêm mailto: để bấm vào là mở trình soạn mail
+    url = "mailto:canpham522@gmail.com"
 
 [menu]
     [[menu.main]]
         identifier = "home"
-        name = "Trang Chủ"
+        name = "HOME"
         url = "/"
         weight = 10
     [[menu.main]]
-        identifier = "posts"
-        name = "Bài Viết"
-        url = "/posts/"
+        identifier = "about"
+        name = "ABOUT"
+        url = "/about/"
         weight = 20
     [[menu.main]]
-        identifier = "about"
-        name = "Giới Thiệu"
-        url = "/about/"
+        identifier = "posts"
+        name = "BLOG"
+        url = "/posts/"
         weight = 30
