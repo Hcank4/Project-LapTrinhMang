@@ -6,7 +6,7 @@ title: "Home"
 
 <div class="hero-section">
 <div class="hero-text">
-<h1 class="name-heading">PHẠM HỒNG CẦN //</h1>
+<h1 class="name-heading">PHẠM HỒNG CẨN </h1>
 <p class="slogan">CẦN CÙ BÙ <br> THÔNG MINH</p>
 
 <div class="hero-buttons">
