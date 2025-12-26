@@ -44,13 +44,18 @@ Chào bạn! Mình là sinh viên năm cuối chuyên ngành CNTT tại **Đại
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px; justify-content: space-between;">
   
   <div style="flex: 1; min-width: 280px; background: #f9f9f9; padding: 10px; border-radius: 10px; border: 1px solid #eee; text-align: center;">
-    <img src="images/chung-chi-tester.jpg" alt="Chứng chỉ Testing" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="margin-top: 10px; font-weight: bold; color: #333;">Chứng chỉ Software Testing Online</p>
+    <img src="images/chung-chi-JavaScript Essentials 1.jpg" alt="Chứng chỉ Testing" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-weight: bold; color: #333;">Chứng chỉ JavaScript Essentials 1</p>
   </div>
 
   <div style="flex: 1; min-width: 280px; background: #f9f9f9; padding: 10px; border-radius: 10px; border: 1px solid #eee; text-align: center;">
     <img src="images/chung-chi-java.jpg" alt="Chứng chỉ Java" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="margin-top: 10px; font-weight: bold; color: #333;">Chứng chỉ Java Networking</p>
+    <p style="margin-top: 10px; font-weight: bold; color: #333;">Chứng chỉ JavaScript Essentials 2</p>
+  </div>
+  
+  <div style="flex: 1; min-width: 280px; background: #f9f9f9; padding: 10px; border-radius: 10px; border: 1px solid #eee; text-align: center;">
+    <img src="images/chung-chi-Networking Basics.jpg" alt="Chứng chỉ Java" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-weight: bold; color: #333;">Chứng chỉ Networking Basics</p>
   </div>
 
 </div>
