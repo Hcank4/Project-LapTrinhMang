@@ -7,10 +7,10 @@ draft: false
 summary: "Rời xa những dòng code khô khan, chúng ta cùng giải mã cách mà thế giới Internet định danh hàng tỷ thiết bị thông qua IP và Port."
 tags: ["Networking", "IP Address", "Port", "Thinking"]
 showToc: true
-ccover:
-    image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1470&auto=format&fit=crop" 
-    alt: "Định vị địa chỉ mạng"
-    caption: "Giao lộ của những con số định danh"
+cover:
+    image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1000&auto=format&fit=crop"
+    alt: "Địa chỉ IP và Port"
+    caption: "Giao lộ của những con số"
     relative: false
 ---
 

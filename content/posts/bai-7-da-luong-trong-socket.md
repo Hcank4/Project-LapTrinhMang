@@ -8,9 +8,9 @@ summary: "Làm sao để một Server có thể phục vụ hàng ngàn người
 tags: ["Networking", "Java", "Multi-threading", "Socket", "Performance"]
 showToc: true
 cover:
-    image: "https://images.unsplash.com/photo-1551288049-bbb651828368?q=80&w=2070&auto=format&fit=crop" 
-    alt: "Hệ thống xử lý song song"
-    caption: "Sức mạnh từ sự phân thân của luồng xử lý"
+    image: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1000&auto=format&fit=crop"
+    alt: "Hệ thống đa luồng song song"
+    caption: "Sức mạnh từ sự phân thân"
     relative: false
 ---
 

@@ -8,9 +8,9 @@ summary: "Nếu coi mạng máy tính là một đại dương, thì OSI và TCP
 tags: ["Networking", "OSI", "TCP/IP", "Java", "HUTECH"]
 showToc: true
 cover:
-    image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc51?q=80&w=2013&auto=format&fit=crop" 
-    alt: "Mô hình tầng mạng"
-    caption: "Mọi kết nối đều cần một quy chuẩn chung"
+    image: "https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?q=80&w=1000&auto=format&fit=crop"
+    alt: "Sơ đồ mạng OSI"
+    caption: "Bản đồ hải trình cho dữ liệu"
     relative: false
 ---
 
