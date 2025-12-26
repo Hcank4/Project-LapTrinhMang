@@ -1,6 +1,6 @@
 ---
 title: "Bài 9: Hành trình và Di sản - Tổng kết đồ án và hướng phát triển"
-date: 2026-01-03T08:00:00+07:00
+date: 2025-12-26T08:00:00+07:00
 author: "PHẠM HỒNG CẦN"
 weight: 9
 draft: false

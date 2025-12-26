@@ -1,6 +1,6 @@
 ---
 title: "Bài 3: Chọn Vũ Khí - TCP Tin Cậy hay UDP Tốc Độ?"
-date: 2025-12-28T10:00:00+07:00
+date: 2025-12-26T08:00:00+07:00
 author: "PHẠM HỒNG CẦN"
 weight: 3
 draft: false

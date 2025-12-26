@@ -1,6 +1,6 @@
 ---
 title: "Bài 4: Giao lộ định danh - Giải mã 'Số nhà' IP và 'Ô cửa' Port"
-date: 2025-12-26T11:00:00+07:00
+date: 2025-12-26T08:00:00+07:00
 author: "PHẠM HỒNG CẦN"
 weight: 4
 draft: false

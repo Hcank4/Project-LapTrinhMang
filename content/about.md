@@ -6,7 +6,7 @@ summary: "Thông tin cá nhân, kỹ năng chuyên môn và các dự án đã t
 
 # PHẠM HỒNG CẦN - SOFTWARE DEVELOPER 👋
 
-Chào bạn! Mình là sinh viên năm cuối chuyên ngành CNTT tại **HUTECH**. Mình có niềm đam mê lớn với lập trình Backend (Java, .NET) và đảm bảo chất lượng phần mềm (Software Testing).
+Chào bạn! Mình là sinh viên năm cuối chuyên ngành CNTT tại **Đại học Công nghệ TP.HCM (HUTECH)**. Mình có niềm đam mê lớn với lập trình Backend (Java, .NET) và đảm bảo chất lượng phần mềm (Software Testing).
 
 ---
 
@@ -38,9 +38,22 @@ Chào bạn! Mình là sinh viên năm cuối chuyên ngành CNTT tại **HUTECH
 ---
 
 ### 🎓 Học vấn & Chứng chỉ
-* **Đại học Công nghệ TP.HCM (HUTECH):** Chuyên ngành Công nghệ thông tin.
-* **Đồ án cơ sở:** Xây dựng website tìm kiếm việc làm.
 
+* **Đại học Công nghệ TP.HCM (HUTECH):** Chuyên ngành Công nghệ thông tin.
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px; justify-content: space-between;">
+  
+  <div style="flex: 1; min-width: 280px; background: #f9f9f9; padding: 10px; border-radius: 10px; border: 1px solid #eee; text-align: center;">
+    <img src="images/chung-chi-tester.jpg" alt="Chứng chỉ Testing" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-weight: bold; color: #333;">Chứng chỉ Software Testing Online</p>
+  </div>
+
+  <div style="flex: 1; min-width: 280px; background: #f9f9f9; padding: 10px; border-radius: 10px; border: 1px solid #eee; text-align: center;">
+    <img src="images/chung-chi-java.jpg" alt="Chứng chỉ Java" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-weight: bold; color: #333;">Chứng chỉ Java Networking</p>
+  </div>
+
+</div>
 ---
 
 ### 📫 Liên hệ với mình

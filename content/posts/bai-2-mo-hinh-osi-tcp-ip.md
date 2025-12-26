@@ -1,6 +1,6 @@
 ---
 title: "Bài 2: Bản đồ hải trình - Giải mã mô hình OSI và TCP/IP"
-date: 2025-12-27T09:00:00+07:00
+date: 2025-12-26T08:00:00+07:00
 author: "PHẠM HỒNG CẦN"
 weight: 2
 draft: false
