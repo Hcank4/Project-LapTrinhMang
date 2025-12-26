@@ -39,7 +39,7 @@ Chào bạn! Mình là sinh viên năm cuối chuyên ngành CNTT tại **HUTECH
 
 ### 🎓 Học vấn & Chứng chỉ
 * **Đại học Công nghệ TP.HCM (HUTECH):** Chuyên ngành Công nghệ thông tin.
-* **Đồ án cơ sở:** Xây dựng hệ thống mạng LAN doanh nghiệp.
+* **Đồ án cơ sở:** Xây dựng website tìm kiếm việc làm.
 
 ---
 
